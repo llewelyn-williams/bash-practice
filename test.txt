@@ -1,1 +1,2 @@
 I'm testing out how commits work.
+This time I'm going to try using an editor for my commit message.
